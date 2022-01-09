@@ -1,3 +1,3 @@
 # IoT_switch-X
-Contributed - Commited
+Contributed - Committed
 Rahulnagabandi2003@gmail.com
