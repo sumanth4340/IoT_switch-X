@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID ""
-#define BLYNK_DEVICE_NAME ""
+#define BLYNK_TEMPLATE_ID "TMPLg0EUxVS-"
+#define BLYNK_DEVICE_NAME "Switch iot X"
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 #define BLYNK_PRINT Serial
 #define BLYNK_DEBUG
